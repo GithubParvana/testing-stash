@@ -1,0 +1,6 @@
+user branch
+
+testing stash
+removed line
+
+edited
